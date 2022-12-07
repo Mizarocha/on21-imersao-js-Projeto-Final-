@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/88461178/205717227-e5a79a36-69ee-4951-8b09-bce5a19cffab.png" alt="logo reprograma" width="500">
+  <img src="https://user-images.githubusercontent.com/88461178/206057759-4ba24b83-7f92-4980-9765-59f39cd6a132.png" alt="logo" width="500">
 </h1>
 
 
-# Projeto final da imersão de JavaScript !
+<h2 align="center"> Imersão JavaScript </h2>
 
 
 
