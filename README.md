@@ -64,6 +64,11 @@ npm install --save prompt-sync
 ### Linguagem:   
 [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+### Para rodar a aplicação: 
+```
+index.js
+```
+
 <h3 align="center"> Autora: Artemiza Rocha </h3>   
 
 ### Contatos:
