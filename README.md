@@ -31,7 +31,7 @@ Saúde e Bem-estar </h1>
  - Pensando nessa dificuldade que as pessoas tem de se cuidar e esse problema que cresce a cada dia, desenvolvir uma aplicação com os 5 dias da semana de segunda a sexta do id 1 ao 5, e cada dia tem uma ação para o usuário realizar. 
 - Os finais de semana ficaram livres, caso selecione a opção 6 que é o default irar retornar uma mensagem de alerta, e para finalizar a semana selecione a opção 0 retornando a mensagem com fim do diálogo.
 
- - Concluindo os 5 dias da primeira semana, começa a vê melhorias no dia a dia, como gestão de tempo, disposição e equilibrio emnocional, consequentimente vai melhorando a qualidade de vida a saúde e o bem-estar.
+ - Concluindo os 5 dias da primeira semana, começa a vê melhorias no dia a dia, como gestão de tempo, disposição e equilíbrio emocional, consequentimente vai melhorando a qualidade de vida a saúde e o bem-estar.
  
  <h2 align="center"> Aplicação </h2
 
