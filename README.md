@@ -29,7 +29,7 @@ Saúde e Bem-estar </h1>
 ### SOLUÇÃO:
 
  - Pensando nessa dificuldade que as pessoas tem de se cuidar e esse problema que cresce a cada dia, desenvolvir uma aplicação com os 5 dias da semana de segunda a sexta do id 1 ao 5, e cada dia tem uma ação para o usuário realizar. 
-- Os finais de semana ficaram livres, caso selecione a opção 6 irar retornar uma mensagem, e para finalizar a semana selecione a opção 0 retornando a mensagem com fim do diálogo.
+- Os finais de semana ficaram livres, caso selecione a opção 6 que é o default irar retornar uma mensagem de alerta, e para finalizar a semana selecione a opção 0 retornando a mensagem com fim do diálogo.
 
  - Concluindo os 5 dias da primeira semana, começa a vê melhorias no dia a dia, como gestão de tempo, disposição e equilibrio emnocional, consequentimente vai melhorando a qualidade de vida a saúde e o bem-estar.
  
@@ -39,9 +39,9 @@ Saúde e Bem-estar </h1>
 - Essa aplicação foi desenvolvida com boas práticas do Clean Code e SOLID, com classes estruturas, separadas,  código limpo e de fácil manutenção e está refatorado, padronizado no inglês.                   
 - A classe Semana que é a classe pai, recebe os parâmetros:
 (id, nome e descrição) fazendo o push das informações.                    
-- As classes filhas, que são os dias da semana tem o constructor usando a palvra super que se extende para chamar o construtor de classe pai e retornar as informações que usuário irar realizar. 
-- Declarando uma função, recebendo a lista das funcionalidades da semana cadastradas. 
-utilizando o prompt-sync para execultar a aplicação no terminal em tempo real.
+- As classes filhas, que são os dias da semana tem o constructor usando a palavra super que se extende para chamar o construtor de classe pai e retornar as informações que usuário irar realizar. 
+- Declarando uma função, recebendo a lista dos dia da semana e com switch case que irar executar o código de cada opção (cada case) especificada,
+e passando pelo prompt-sync que irar executar a aplicação em tempo real no terminal.
 
 ### Passo a passo para rodar o projeto:
 - [Visual Studio Code](https://code.visualstudio.com/)
