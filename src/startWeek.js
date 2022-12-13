@@ -10,6 +10,7 @@ const prompt = promptSync();
 
 function startWeek() {
   console.log(`Select the day:
+  ======================= DAYS OF THE WEEK ====================
   
   1 - Monday
   2 - Tuesday
